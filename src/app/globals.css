@@ -2,4 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-
+.banner{
+  background-image: url('../../public/assets/images/banner/5.jpg');
+}
